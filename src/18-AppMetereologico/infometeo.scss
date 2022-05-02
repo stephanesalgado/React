@@ -1,0 +1,16 @@
+.general{
+    background-color: cadetblue;
+    height: 100vh;
+    text-align: center;
+}
+
+.miContenedor{
+    border: 5px chocolate solid;
+    border-radius: 20px;
+    padding: 5%;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+}

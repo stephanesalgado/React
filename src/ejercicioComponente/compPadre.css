@@ -1,0 +1,10 @@
+body{
+    background-color:darkblue
+}
+.padre{
+    margin: 40px;
+    background-color:darkgray;
+    height: 80vh;
+    width: 600px;
+    border: 1px black solid;
+}

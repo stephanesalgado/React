@@ -1,0 +1,21 @@
+
+
+
+
+
+JSX
+
+JAVA SCRIPT + XML
+
+Estado:
+Estado es la información que tiene un componente la primera vez que se renderiza
+
+1) Hook de estado useState
+2) Hook de efecto useEffect
+3) useContext
+4) useRef
+5) useReducer
+6) Customs Hook
+
+Hook nunca llamar desde componentes de clase
+Nunca llamar a un hook desde un bucle, ni condicionales.

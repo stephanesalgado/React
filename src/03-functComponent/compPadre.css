@@ -1,0 +1,10 @@
+body{
+    background-color:coral
+}
+.contpadre{
+    margin: 40px;
+    background-color:darkgreen;
+    height: 80vh;
+    width: 600px;
+    border: 1px black solid;
+}
